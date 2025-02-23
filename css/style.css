@@ -1,0 +1,73 @@
+/* All Common Css Start  */
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  /* font-family: ; */
+}
+a, a:hover{
+  text-decoration: none;
+  display: inline-block;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+/* All Common Css End */
+
+/* Header Part Start  */
+
+/* Header Part End */
+
+/* Banner Part Start  */
+
+/* Banner Part End */
+
+/* Service Part Start  */
+
+/* Service Part End */
+
+/* App Part Start  */
+
+/* App Part End */
+
+/* App Show Part Start  */
+
+/* App Show Part End */
+
+/* Companies Part Start  */
+
+/* Companies Part End */
+
+/* Trial Part Start  */
+
+/* Trial Part End */
+
+/* Post Part Start  */
+
+/* post right content  */
+
+/* Post Part End */
+
+/* Talk Part Start  */
+
+/* Talk Part End */
+
+/* Footer Part Start  */
+
+/* Footer Part End */
+
+/* Banner Part Start  */
+/* Banner Part End */
