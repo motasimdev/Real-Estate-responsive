@@ -28,6 +28,9 @@ p {
 /* All Common Css End */
 
 /* Header Part Start  */
+.navbar {
+  padding: 20px 0;
+}
 .nav-link{
   padding: 0 22px !important;
   font-size: 18px;
@@ -53,7 +56,14 @@ p {
 /* Header Part End */
 
 /* Banner Part Start  */
-
+#banner_part{
+}
+.banner_part_bg{
+  background: url(../images/slider.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 /* Banner Part End */
 
 /* Service Part Start  */
