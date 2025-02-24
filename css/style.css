@@ -6,7 +6,8 @@
   box-sizing: border-box;
   /* font-family: ; */
 }
-a, a:hover{
+a,
+a:hover {
   text-decoration: none;
   display: inline-block;
 }
@@ -31,24 +32,24 @@ p {
 .navbar {
   padding: 20px 0;
 }
-.nav-link{
+.nav-link {
   padding: 0 22px !important;
   font-size: 18px;
   font-weight: 700;
   font-family: "Nunito", serif;
   color: #143445;
 }
-.home{
-  color: #FF5A3C;
+.home {
+  color: #ff5a3c;
 }
-.header_i_btn i{
+.header_i_btn i {
   padding-right: 20px;
 }
-.header_btn{
+.header_btn {
   padding: 20px 35px;
   border-radius: 3px;
   color: #ffffff;
-  background: #FF5A3C;
+  background: #ff5a3c;
   font-size: 15px;
   font-weight: 400;
   font-family: "Poppins", serif;
@@ -56,13 +57,27 @@ p {
 /* Header Part End */
 
 /* Banner Part Start  */
-#banner_part{
+#banner_part {
 }
-.banner_part_bg{
+.banner_part_bg {
   background: url(../images/slider.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  padding-top: 125px;
+  padding-bottom: 170px;
+}
+.banner_txt h5 {
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Nunito", serif;
+  color: #15254a;
+}
+.banner_txt h1 {
+  font-size: 65px;
+  font-weight: 700;
+  font-family: "Poppins", serif;
+  color: #000000;
 }
 /* Banner Part End */
 
