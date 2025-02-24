@@ -133,6 +133,24 @@ p {
   top: -132px;
   left: 132px;
 }
+.feature_r h5{
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Nunito", serif;
+  color: #FF5A3C;
+}
+.feature_r h4{
+  font-size: 48px;
+  font-weight: 700;
+  font-family: "Poppins", serif;
+  color: #0A2C3D;
+}
+.feature_r_item{
+  padding: 30px 0;
+  padding-left: 25px;
+  padding-right: 55px;
+}
+
 /* Feature Part End */
 
 /* App Part Start  */
