@@ -74,12 +74,18 @@ p {
   color: #15254a;
 }
 .banner_txt h1 {
+  padding: 18px 0;
   font-size: 65px;
   font-weight: 700;
   font-family: "Poppins", serif;
   color: #000000;
+  line-height: 77px;
 }
-.banner_txt h5 {
+.banner_txt span{
+  color: #FF5A3C;
+}
+.banner_txt p {
+  padding-bottom: 35px;
   font-size: 18px;
   font-weight: 400;
   font-family: "Nunito", serif;
@@ -91,7 +97,10 @@ p {
   font-weight: 400;
   font-family: "Poppins", serif;
   color: #ffffff;
+  background: #FF5A3C;
+  border-radius: 5px;
 }
+
 /* Banner Part End */
 
 /* Service Part Start  */
