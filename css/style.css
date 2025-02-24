@@ -30,9 +30,15 @@ p {
 /* Header Part Start  */
 .nav-link{
   padding: 0 22px !important;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Nunito", serif;
+  color: #143445;
+}
+.home{
+  color: #FF5A3C;
 }
 .header_i_btn i{
-  
   padding-right: 20px;
 }
 .header_btn{
