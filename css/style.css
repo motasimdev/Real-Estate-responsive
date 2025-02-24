@@ -64,8 +64,16 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding-top: 125px;
+  padding-top: 245px;
   padding-bottom: 170px;
+}
+.banner_txt{
+  position: relative;
+}
+.extra{
+    position: absolute;
+    top: -158px;
+    left: -354px;
 }
 .banner_txt h5 {
   font-size: 16px;
