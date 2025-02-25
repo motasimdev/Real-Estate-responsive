@@ -204,12 +204,22 @@ p {
   line-height: 70px;
 }
 .facilities_l p {
-  padding-right: 91px;
+  padding-right: 201px;
   font-size: 16px;
   font-weight: 400;
   font-family: "Nunito", serif;
   color: #2C3B5E;
   line-height: 32px;
+}
+.facilities_down_one{
+  padding: 50px 0;
+}
+.facilities_down_one h6{
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Nunito", serif;
+  color: #0A2C3D;
+  line-height: 25px;
 }
 
 /* Facilities Part End */
