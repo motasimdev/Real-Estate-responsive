@@ -125,6 +125,9 @@ p {
   padding-top: 125px;
   padding-bottom: 120px;
 }
+.feature_r {
+  padding-top: 20px;
+}
 .feature_r h5 {
   padding-bottom: 15px;
   font-size: 18px;
@@ -162,22 +165,54 @@ p {
   color: #5c727d;
   line-height: 24px;
 }
-.red{
-  background: #FF5A3C;
+.red {
+  background: #ff5a3c;
 }
-.red h5{
+.red h5 {
   padding-top: 12px;
   color: white;
 }
-.red p{
+.red p {
   color: white;
 }
 
 /* Feature Part End */
 
-/* App Part Start  */
+/* Facilities Part Start  */
+#facilities {
+  padding-bottom: 120px;
+}
+.facilities_bg {
+  padding: 105px 0;
+  background: url(../images/slider.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.facilities_l h5 {
+  padding-bottom: 20px;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Nunito", serif;
+  color: #ff5a3c;
+}
+.common_title h4 {
+  font-size: 48px;
+  font-weight: 700;
+  font-family: "Poppins", serif;
+  color: #0a2c3d;
+  line-height: 70px;
+}
+.facilities_l p {
+  padding-right: 91px;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Nunito", serif;
+  color: #2C3B5E;
+  line-height: 32px;
+}
 
-/* App Part End */
+/* Facilities Part End */
 
 /* App Show Part Start  */
 
