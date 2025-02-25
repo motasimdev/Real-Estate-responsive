@@ -122,16 +122,8 @@ p {
 
 /* Feature Part Start  */
 #feature_part {
-  padding-top: 250px;
+  padding-top: 125px;
   padding-bottom: 120px;
-}
-.feature_parnt {
-  position: relative;
-}
-.feature_img_up {
-  position: absolute;
-  top: -132px;
-  left: 132px;
 }
 .feature_r h5 {
   padding-bottom: 15px;
@@ -172,6 +164,13 @@ p {
 }
 .red{
   background: #FF5A3C;
+}
+.red h5{
+  padding-top: 12px;
+  color: white;
+}
+.red p{
+  color: white;
 }
 
 /* Feature Part End */
