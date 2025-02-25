@@ -204,6 +204,7 @@ p {
   line-height: 70px;
 }
 .facilities_l p {
+  padding-bottom: 50px;
   padding-right: 201px;
   font-size: 16px;
   font-weight: 400;
@@ -212,7 +213,7 @@ p {
   line-height: 32px;
 }
 .facilities_down_one{
-  padding: 50px 0;
+  padding-bottom: 50px;
 }
 .facilities_down_one h6{
   font-size: 18px;
