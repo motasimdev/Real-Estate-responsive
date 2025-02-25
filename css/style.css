@@ -248,6 +248,33 @@ p {
   font-family: "Nunito", serif;
   color: #FF5A3C;
 }
+.service_items{
+  padding-top: 50px;
+}
+.service_i_one{
+  padding: 40px 40px 50px 60px;
+  text-align: center;
+}
+.service_i_one h4{
+  font-size: 28px;
+  font-weight: 700;
+  font-family: "Poppins", serif;
+  color: #000000;
+}
+.service_i_one p{
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Nunito", serif;
+  color: #5C727D;
+}
+.service_i_one a{
+  padding: 25px 0;
+  font-size: 18px;
+  font-family: "Nunito", serif;
+  font-weight: 700;
+  color: #FF5A3C;
+  line-height: 33px;
+}
 /* Service Show Part End */
 
 /* Companies Part Start  */
