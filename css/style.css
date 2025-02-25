@@ -32,6 +32,10 @@ p {
 .navbar {
   padding: 20px 0;
 }
+.navbar-toggler i{
+  font-size: 20px;
+  color: #FF5A3C;
+}
 .nav-link {
   padding: 0 22px !important;
   font-size: 18px;

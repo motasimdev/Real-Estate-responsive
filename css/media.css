@@ -19,5 +19,62 @@
 
 /* Extra small devices */
 @media (max-width: 575.98px) {
+    .navbar-nav {
+        text-align: center;
+        background: #FF5A3C;
+        padding: 19px 0;
+    }
+
+    .nav-link {
+        padding: 6px 0 !important;
+        color: white;
+    }
+
+    .header_i_btn{
+        text-align: center;
+    }
+
+    .extra {
+        top: -113px;
+        left: -21px;
+        width: 128px;
+    }
+
+    .banner_part_bg {
+        padding-top: 145px;
+        padding-bottom: 60px;
+    }
+
+    .banner_txt h5 {
+        font-size: 14px;
+    }
+
+    .banner_txt h1 {
+        padding: 10px 0;
+        font-size: 33px;
+        line-height: 45px;
+    }
+
+    .banner_txt p {
+        padding-bottom: 20px;
+        font-size: 15px;
+        width: 231px;
+        line-height: 22px;
+    }
+
+    .banner_txt a {
+        padding: 10px 10px;
+        font-size: 11px;
+    }
+
+    .banner_txt i {
+        font-size: 42px;
+        padding-top: 10px;
+        padding-left: 32px;
+    }
+
+    #feature_part {
+        padding-top: 35px;
+    }
     
 }
