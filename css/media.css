@@ -75,6 +75,60 @@
 
     #feature_part {
         padding-top: 35px;
+        padding-bottom: 40px;
     }
-    
+    .feature_parnt .ft_img_one{
+        width: 100%;
+    }
+
+    .feature_r h5 {
+        padding-top: 25px;
+        text-align: center;
+    }
+
+    .feature_r h4 {
+        font-size: 43px;
+        line-height: 60px;
+        text-align: center;
+    }
+    .feature_r_item{
+        text-align: center;
+    }
+    .facilities_bg {
+        padding: 50px 0;
+    }
+
+    .common_title h4 {
+        font-size: 29px;
+        line-height: 44px;
+        width: 321px;
+    }
+
+    #facilities {
+        padding-bottom: 37px;
+    }
+
+    .facilities_l p {
+        padding-right: 220px;
+        font-size: 12px;
+        line-height: 26px;
+        padding-bottom: 24px;
+    }
+    .facilities_down_one svg{
+        width: 24px;
+    }
+
+    .facilities_down_one {
+        padding-bottom: 25px;
+    }
+
+    .facilities_down_one h6 {
+        font-size: 11px;
+        font-weight: 500;
+        line-height: 10px;
+    }
+
+    .facilities_l .circle {
+        width: 0;
+    }
 }
