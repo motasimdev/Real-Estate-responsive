@@ -238,7 +238,16 @@ p {
 /* Facilities Part End */
 
 /* Service Show Part Start  */
-
+#service_part{
+  padding-bottom: 120px;
+}
+.service_title h5{
+  padding-bottom: 15px;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Nunito", serif;
+  color: #FF5A3C;
+}
 /* Service Show Part End */
 
 /* Companies Part Start  */
