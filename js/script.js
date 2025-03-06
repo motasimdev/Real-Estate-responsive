@@ -4,4 +4,15 @@ $('.service_slide').slick({
   autoplay: true,
   autoplaySpeed: 1000,
   arrows: false,
+  responsive: [
+    {
+      breakpoint: 576,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1
+      }
+    },
+  ]
 });
