@@ -5,6 +5,7 @@ $('.service_slide').slick({
   autoplay: true,
   autoplaySpeed: 1000,
   arrows: false,
+  dots: true,
   responsive: [
     {
       breakpoint: 576,
