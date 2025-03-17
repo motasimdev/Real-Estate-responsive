@@ -29,7 +29,7 @@ p {
 /* All Common Css End */
 
 /* sticky header  */
-.sticky_name{
+.sticky_header{
   background: teal;
   animation: alamin 1s;
   }
@@ -46,6 +46,11 @@ p {
 /* Header Part Start  */
 .navbar {
   padding: 20px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
 }
 .navbar-toggler i{
   font-size: 20px;
